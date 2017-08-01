@@ -11,8 +11,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 ## Specs
 
 * _The word Scissors returns Scissors._
-* _The word Paper returns Scissors._
-* _The word Rock returns Scissors._
+* _The word Paper returns Paper._
 * _Scissors wins over paper._
 
 
